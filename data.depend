@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1463317293 source:c:\users\alextec\desktop\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1463342620 source:c:\users\nnnnnnnnnr\desktop\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1463353219 source:d:\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
